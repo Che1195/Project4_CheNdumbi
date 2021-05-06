@@ -1,0 +1,24 @@
+Make Homepage (index.js)
+
+[]  create a welcome page that looks cool and briefly
+    explains what the website is about
+
+Navbar
+
+[]  create navbar UI
+[]  create all a tags that will be connected to the appropriate page 
+    when it is made
+
+Review Search Page
+
+[X]  create cards for each individual Review
+[X]  give each card a link to the NYT.com review
+[X]  create the search text field and search button,
+    probably going to need to learn more about forms,
+    inputs, and buttons for this
+[]  add link to page to the navbar
+
+Top 10 articles pages
+
+[]  make html elements to be populated
+[]  write js code for making API call and populating html elements
