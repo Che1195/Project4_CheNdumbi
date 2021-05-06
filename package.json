@@ -1,0 +1,14 @@
+{
+  "name": "project4",
+  "version": "1.0.0",
+  "description": "CMST488 Final Project",
+  "main": "script.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
